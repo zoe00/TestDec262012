@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<color name="white">#ffffff</color>
+<color name="black">#ff000000</color>
+<color name="gray">#7c7c7c</color>
+<color name="blue">#5a7a90</color>
+<color name="red">#eb2e2e</color>
+<color name="blues">#058cf5</color>
+<color name="opaque">#2665a5</color>
+<color name="carribean">#13619c</color>
+<color name="ltgray">#c9c9c9</color>
+<color name="maroon">#3f0000</color>
+<color name="line">#e0e0e0</color>
+<color name="g">#D04529</color>
+<color name="twitter">#1BB2E9</color>
+<color name="facebook">#49699A</color>
+<color name="green">#18c093</color>
+<color name="dark_green">#043300</color>
+<color name="menu_hover">#aa1010</color>
+<color name="email">#5E882E</color>
+<color name="blue1">#149BD7</color>
+<color name="green1">#68B200</color>
+<color name="sep">#003002</color>
+<color name="orange1">#FE8239</color>
+<color name="menu">#f5f5f0</color>
+<color name="menu_sep">#b1b1b1</color>
+<color name="heads">#545454</color>
+<color name="bg">#fefff8</color>
+<color name="bg_lt">#f3f3f3</color>
+<color name="filter">#e5e4e4</color>
+ 
+</resources>

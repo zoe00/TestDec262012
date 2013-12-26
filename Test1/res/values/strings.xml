@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Urban Airship Push Notifications Test App\n\nSend a PUSH notification from server (using Web console> Messages> New Push Message) and it will be received on all devices using this App\n\nPlease note that before starting this App, device internet connection is UP and working. Time it takes for a Push message to be delivered inside App varies, sometimes it takes a sec sometimes hours.\n\nEnjoy!!!</string>
+    <string name="app_name">Urban Airship Push Notifications Test App</string>
+
+</resources>
